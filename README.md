@@ -60,7 +60,11 @@ melalui saluran komunikasi rasmi FeeksTech.
 <hr>
 
 <p><strong>FeeksTech Mobile & Repair</strong><br>
-Malaysia</p>
+Malaysia</p><p>
+<a href="https://feekstechaccessories-del.github.io/feekstech-refund-policy/">
+Refund & Warranty Policy
+</a>
+</p>
 
 </body>
 </html>
